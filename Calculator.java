@@ -1,6 +1,4 @@
-
 import java.util.Scanner;
-
 public class Calculator {
 	public static void main(String args[]) {
 		Scanner object =new Scanner(System.in);
@@ -25,7 +23,6 @@ public class Calculator {
 				System.out.println("Result="+d);}
 			else {
 				System.out.println("Cannot divide by zero");}}	
+		object.close();
 		}
 }
-
-

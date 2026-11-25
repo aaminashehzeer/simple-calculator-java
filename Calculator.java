@@ -1,4 +1,3 @@
-package Selection;
 
 import java.util.Scanner;
 
